@@ -1,8 +1,8 @@
 [submodule "derivatives/fmriprep"]
 	path = derivatives/fmriprep
-	url = ./derivatives/fmriprep
+	url = https://github.com/jbwexler/SleepyBrain1-derivatives-fmriprep.git
 	datalad-id = ce2a6c1c-f94b-49db-9090-035e743c3c74
 [submodule "derivatives/freesurfer"]
 	path = derivatives/freesurfer
-	url = ./derivatives/freesurfer
+	url = https://github.com/jbwexler/SleepyBrain1-derivatives-freesurfer.git
 	datalad-id = 2daad1be-79c8-44c8-aef5-ac3feac243a1
