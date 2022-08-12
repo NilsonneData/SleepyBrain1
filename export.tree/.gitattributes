@@ -1,0 +1,5 @@
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+annex.largefiles=(largerthan=20kb)
+README annex.largefiles=nothing
+CHANGES annex.largefiles=nothing
