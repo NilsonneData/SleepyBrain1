@@ -1,1 +1,58 @@
-../../../.git/annex/objects/6g/k3/MD5E-s1281--bc8b44cfdfb06899a22604b54e5203ac.json/MD5E-s1281--bc8b44cfdfb06899a22604b54e5203ac.json
+{
+  "AcquisitionDuration": 393.10976,
+  "Columns": 512,
+  "EchoTime": 0.12788,
+  "EchoTrainLength": 140,
+  "EffectiveEchoSpacing": 0,
+  "FieldOfView": [
+    240.03,
+    240.03,
+    87.6
+  ],
+  "FlipAngle": 90,
+  "GEImageTypeRIMPCode": 0,
+  "ImageType": "ORIGINAL/PRIMARY/OTHER",
+  "ImagingFrequency": 127.765175,
+  "InplanePhaseEncodingDirection": "ROW",
+  "InversionTime": 1.86,
+  "MRAcquisitionType": "3D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "ManufacturersModelName": "DISCOVERY MR750",
+  "NumberOfAverages": 1,
+  "NumberOfEPIShots": 1,
+  "NumberOfEchoes": 1,
+  "NumberOfSlices": 146,
+  "ParallelImagingReductionFactors": [
+    0.5,
+    0.5
+  ],
+  "PercentPhaseFieldOfView": 100,
+  "PhaseEncodingDirection": "i",
+  "PixelBandwidth": 122.07,
+  "PixelSpacing": [
+    0.4688,
+    0.4688
+  ],
+  "ReceiveCoilName": "8HRBRAIN",
+  "RepetitionTime": 6,
+  "Rows": 512,
+  "SATFatWaterBone": 0,
+  "ScanOptions": [
+    "EDR_GEMS",
+    "FILTERED_GEMS",
+    "ACC_GEMS"
+  ],
+  "ScanningSequence": [
+    "SE",
+    "IR"
+  ],
+  "SequenceVariant": "SK",
+  "SeriesDate": "18730330",
+  "SeriesDescription": "Sag CUBE T2 flair",
+  "SeriesNumber": 11,
+  "SeriesTime": "204400",
+  "SliceThickness": 1.2,
+  "SpacingBetweenSlices": 0.600002,
+  "StudyTime": "193338"
+}

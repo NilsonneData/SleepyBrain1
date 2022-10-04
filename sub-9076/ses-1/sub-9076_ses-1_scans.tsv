@@ -1,1 +1,12 @@
-../../.git/annex/objects/8M/mj/MD5E-s666--c7249bb95ef4d3f4e49eacd0bfbba2e7.tsv/MD5E-s666--c7249bb95ef4d3f4e49eacd0bfbba2e7.tsv
+filename	acq_time
+anat/sub-9076_ses-1_T1w.nii.gz	1873-05-27T17:03:26
+anat/sub-9076_ses-1_FLAIR.nii.gz	1873-05-27T18:23:20
+fmap/sub-9076_ses-1_magnitude1.nii.gz	1873-05-27T17:26:46
+fmap/sub-9076_ses-1_magnitude2.nii.gz	1873-05-27T17:26:46
+fmap/sub-9076_ses-1_phase1.nii.gz	1873-05-27T17:26:46
+fmap/sub-9076_ses-1_phase2.nii.gz	1873-05-27T17:26:46
+func/sub-9076_ses-1_task-arrows_bold.nii.gz	1873-05-27T17:53:17
+func/sub-9076_ses-1_task-faces_bold.nii.gz	1873-05-27T17:30:20
+func/sub-9076_ses-1_task-hands_bold.nii.gz	1873-05-27T17:41:36
+func/sub-9076_ses-1_task-rest_bold.nii.gz	1873-05-27T17:12:05
+func/sub-9076_ses-1_task-sleepiness_bold.nii.gz	1873-05-27T18:13:07

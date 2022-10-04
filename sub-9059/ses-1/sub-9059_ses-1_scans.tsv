@@ -1,1 +1,8 @@
-../../.git/annex/objects/z4/7g/MD5E-s442--fb30721b9195350ee9826869d584c068.tsv/MD5E-s442--fb30721b9195350ee9826869d584c068.tsv
+filename	acq_time
+anat/sub-9059_ses-1_T1w.nii.gz	1873-11-18T20:36:34
+anat/sub-9059_ses-1_FLAIR.nii.gz	1873-11-18T21:55:11
+func/sub-9059_ses-1_task-arrows_bold.nii.gz	1873-11-18T21:25:44
+func/sub-9059_ses-1_task-faces_bold.nii.gz	1873-11-18T20:58:31
+func/sub-9059_ses-1_task-hands_bold.nii.gz	1873-11-18T21:10:27
+func/sub-9059_ses-1_task-rest_bold.nii.gz	1873-11-18T20:44:24
+func/sub-9059_ses-1_task-sleepiness_bold.nii.gz	1873-11-18T21:44:52

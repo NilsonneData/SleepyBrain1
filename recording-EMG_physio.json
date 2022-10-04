@@ -1,1 +1,19 @@
-.git/annex/objects/x0/qj/MD5E-s381--f893376edc53eb761766f613f847c60d.json/MD5E-s381--f893376edc53eb761766f613f847c60d.json
+{
+    "Note": "Neutral, Happy, Angry columns contain event onset reference signals.", 
+    "Units": [
+        "mV", 
+        "mV", 
+        "Volts", 
+        "Volts", 
+        "Volts"
+    ], 
+    "SamplingFrequency": 10000.0, 
+    "Columns": [
+        "Zyg - EMG100C", 
+        "Corr - EMG100C", 
+        "Neutral", 
+        "Happy", 
+        "Angry"
+    ], 
+    "StartTime": 0.0
+}

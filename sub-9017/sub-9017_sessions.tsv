@@ -1,1 +1,3 @@
-../.git/annex/objects/Px/G6/MD5E-s330--7cc3fa7b2207337ab7d85c0256f2485a.tsv/MD5E-s330--7cc3fa7b2207337ab7d85c0256f2485a.tsv
+session_id	acq_time	preMRI_KSS_Q0_rating	preMRI_KSS_Q1_rating	preMRI_KSS_Q2_rating	preMRI_KSS_Q3_rating	preMRI_KSS_Q4_rating	preMRI_KSS_Q5_rating	working_mem_KSS_rating	working_mem_perform_rating	working_mem_effort_rating
+ses-1	1873-01-15T18:43:28	n/a	6	9	9	9	n/a	n/a	n/a	n/a
+ses-2	1873-02-15T18:23:07	n/a	6	8	8	8	n/a	n/a	n/a	n/a

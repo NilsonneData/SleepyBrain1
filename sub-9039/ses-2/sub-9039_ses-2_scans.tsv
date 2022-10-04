@@ -1,1 +1,12 @@
-../../.git/annex/objects/2V/Gp/MD5E-s663--b2c96f896892244b6cea970438b6d2da.tsv/MD5E-s663--b2c96f896892244b6cea970438b6d2da.tsv
+filename	acq_time
+anat/sub-9039_ses-2_T1w.nii.gz	1874-04-03T18:14:38
+dwi/sub-9039_ses-2_dwi.nii.gz	1874-04-03T19:27:39
+fmap/sub-9039_ses-2_magnitude1.nii.gz	1874-04-03T18:54:02
+fmap/sub-9039_ses-2_magnitude2.nii.gz	1874-04-03T18:54:02
+fmap/sub-9039_ses-2_phase1.nii.gz	1874-04-03T18:54:02
+fmap/sub-9039_ses-2_phase2.nii.gz	1874-04-03T18:54:02
+func/sub-9039_ses-2_task-arrows_bold.nii.gz	1874-04-03T18:56:19
+func/sub-9039_ses-2_task-faces_bold.nii.gz	1874-04-03T18:32:24
+func/sub-9039_ses-2_task-hands_bold.nii.gz	1874-04-03T18:42:18
+func/sub-9039_ses-2_task-rest_bold.nii.gz	1874-04-03T18:20:47
+func/sub-9039_ses-2_task-sleepiness_bold.nii.gz	1874-04-03T19:17:27
