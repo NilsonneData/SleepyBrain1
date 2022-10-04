@@ -1,0 +1,63 @@
+{
+  "AcquisitionDuration": 357.000096,
+  "Columns": 96,
+  "EchoTime": 0.081,
+  "EchoTrainLength": 1,
+  "EffectiveEchoSpacing": 0.000632,
+  "FieldOfView": [
+    220,
+    220,
+    142.6
+  ],
+  "FlipAngle": 90,
+  "GEImageTypeRIMPCode": 0,
+  "ImageType": "ORIGINAL/PRIMARY/OTHER",
+  "ImagingFrequency": 127.765161,
+  "InplanePhaseEncodingDirection": "COL",
+  "InversionTime": 0,
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "ManufacturersModelName": "DISCOVERY MR750",
+  "NumberOfAverages": 1,
+  "NumberOfEPIShots": 1,
+  "NumberOfEchoes": 1,
+  "NumberOfSlices": 62,
+  "ParallelImagingReductionFactors": [
+    0.5,
+    1
+  ],
+  "PercentPhaseFieldOfView": 100,
+  "PhaseEncodingDirection": "j",
+  "PixelBandwidth": 5208.33,
+  "PixelSpacing": [
+    2.2917,
+    2.2917
+  ],
+  "ReceiveCoilName": "8HRBRAIN",
+  "RepetitionTime": 7,
+  "Rows": 96,
+  "SATFatWaterBone": 1,
+  "ScanOptions": [
+    "SAT_GEMS",
+    "EPI_GEMS",
+    "FILTERED_GEMS",
+    "ACC_GEMS",
+    "PFF",
+    "FS"
+  ],
+  "ScanningSequence": [
+    "EP",
+    "RM"
+  ],
+  "SequenceVariant": "NONE",
+  "SeriesDate": "18731220",
+  "SeriesDescription": "DTI_2.3mm_b1000-45",
+  "SeriesNumber": 13,
+  "SeriesTime": "210555",
+  "SliceThickness": 2.3,
+  "SpacingBetweenSlices": 2.3,
+  "StudyTime": "194825",
+  "dummyScans": null,
+  "TotalReadoutTime": 0.024648
+}
