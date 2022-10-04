@@ -1,8 +1,0 @@
-filename	acq_time
-anat/sub-9065_ses-2_T1w.nii.gz	1874-05-11T20:01:16
-dwi/sub-9065_ses-2_dwi.nii.gz	1874-05-11T21:26:52
-func/sub-9065_ses-2_task-arrows_bold.nii.gz	1874-05-11T21:02:27
-func/sub-9065_ses-2_task-faces_bold.nii.gz	1874-05-11T20:18:27
-func/sub-9065_ses-2_task-hands_bold.nii.gz	1874-05-11T20:30:50
-func/sub-9065_ses-2_task-rest_bold.nii.gz	1874-05-11T20:07:22
-func/sub-9065_ses-2_task-sleepiness_bold.nii.gz	1874-05-11T21:18:40

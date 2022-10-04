@@ -1,3 +1,0 @@
-session_id	acq_time	preMRI_KSS_Q0_rating	preMRI_KSS_Q1_rating	preMRI_KSS_Q2_rating	preMRI_KSS_Q3_rating	preMRI_KSS_Q4_rating	preMRI_KSS_Q5_rating	working_mem_KSS_rating	working_mem_perform_rating	working_mem_effort_rating
-ses-1	1873-03-11T20:35:21	2	2	2	2	2	2	n/a	n/a	n/a
-ses-2	1873-04-07T20:27:10	2	2	3	3	5	6	n/a	n/a	n/a
