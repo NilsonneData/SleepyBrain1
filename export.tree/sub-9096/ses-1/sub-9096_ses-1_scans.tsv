@@ -1,8 +1,0 @@
-filename	acq_time
-anat/sub-9096_ses-1_T1w.nii.gz	1874-05-25T20:00:06
-anat/sub-9096_ses-1_FLAIR.nii.gz	1874-05-25T21:32:13
-func/sub-9096_ses-1_task-arrows_bold.nii.gz	1874-05-25T21:02:15
-func/sub-9096_ses-1_task-faces_bold.nii.gz	1874-05-25T20:36:43
-func/sub-9096_ses-1_task-hands_bold.nii.gz	1874-05-25T20:49:58
-func/sub-9096_ses-1_task-rest_bold.nii.gz	1874-05-25T20:25:22
-func/sub-9096_ses-1_task-sleepiness_bold.nii.gz	1874-05-25T21:22:31

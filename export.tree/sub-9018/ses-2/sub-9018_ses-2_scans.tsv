@@ -1,8 +1,0 @@
-filename	acq_time
-anat/sub-9018_ses-2_T1w.nii.gz	1874-01-13T20:15:28
-dwi/sub-9018_ses-2_dwi.nii.gz	1874-01-13T21:28:58
-func/sub-9018_ses-2_task-arrows_bold.nii.gz	1874-01-13T20:56:06
-func/sub-9018_ses-2_task-faces_bold.nii.gz	1874-01-13T20:33:49
-func/sub-9018_ses-2_task-hands_bold.nii.gz	1874-01-13T20:44:00
-func/sub-9018_ses-2_task-rest_bold.nii.gz	1874-01-13T20:22:13
-func/sub-9018_ses-2_task-sleepiness_bold.nii.gz	1874-01-13T21:16:05
