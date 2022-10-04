@@ -1,0 +1,10 @@
+onset	duration	trial_type	response_time	KSS_rating	onset_uncorrected
+0.01	120.013	Fixation+	n/a	n/a	39.071
+125.713	n/a	Response	5.691	5	164.774
+125.742	120.013	Fixation+	n/a	n/a	164.803
+250.472	n/a	Response	4.717	6	289.533
+250.497	120.013	Fixation+	n/a	n/a	289.558
+375.286	n/a	Response	4.776	7	414.347
+375.318	120.013	Fixation+	n/a	n/a	414.379
+499.491	n/a	Response	4.159	7	538.552
+499.509	34.138	Fixation+	n/a	n/a	538.57
