@@ -1,0 +1,12 @@
+filename	acq_time
+anat/sub-9028_ses-1_T1w.nii.gz	1874-04-14T19:52:45
+anat/sub-9028_ses-1_FLAIR.nii.gz	1874-04-14T21:02:13
+fmap/sub-9028_ses-1_magnitude1.nii.gz	1874-04-14T20:30:44
+fmap/sub-9028_ses-1_magnitude2.nii.gz	1874-04-14T20:30:44
+fmap/sub-9028_ses-1_phase1.nii.gz	1874-04-14T20:30:44
+fmap/sub-9028_ses-1_phase2.nii.gz	1874-04-14T20:30:44
+func/sub-9028_ses-1_task-arrows_bold.nii.gz	1874-04-14T20:32:53
+func/sub-9028_ses-1_task-faces_bold.nii.gz	1874-04-14T20:09:54
+func/sub-9028_ses-1_task-hands_bold.nii.gz	1874-04-14T20:19:34
+func/sub-9028_ses-1_task-rest_bold.nii.gz	1874-04-14T19:58:53
+func/sub-9028_ses-1_task-sleepiness_bold.nii.gz	1874-04-14T20:52:35

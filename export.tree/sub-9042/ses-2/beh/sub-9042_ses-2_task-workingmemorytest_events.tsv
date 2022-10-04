@@ -1,0 +1,13 @@
+onset	duration	response_time	time	order_of_test	time_start_battery	order_in_test	order	no_grids	grid1	grid2	grid3	grid4	grid5	grid6	grid7	grid8	pres_grid	correct
+0.0	n/a	1.914	04:45:28	1	17023	1	1	6	11	4	12	5	3	13	n/a	n/a	9,6	1
+12.0	n/a	1.423	04:45:40	1	27895	2	2	6	9	10	5	1	8	11	n/a	n/a	1,4	1
+22.0	n/a	1.326	04:45:50	1	33043	3	3	2	2	7	n/a	n/a	n/a	n/a	n/a	n/a	2,1	1
+28.0	n/a	1.161	04:45:56	1	38026	4	4	2	3	9	n/a	n/a	n/a	n/a	n/a	n/a	3,1	1
+33.0	n/a	2.697	04:46:01	1	50170	5	5	6	16	3	1	14	6	2	n/a	n/a	2,3	1
+45.0	n/a	1.268	04:46:13	1	55264	6	6	2	5	11	n/a	n/a	n/a	n/a	n/a	n/a	5,1	1
+50.0	n/a	2.552	04:46:18	1	67283	7	7	6	8	6	3	15	1	14	n/a	n/a	6,2	1
+62.0	n/a	1.657	04:46:30	1	72781	8	8	2	5	6	n/a	n/a	n/a	n/a	n/a	n/a	8,2	1
+67.0	n/a	1.996	04:46:35	1	78608	9	9	2	3	13	n/a	n/a	n/a	n/a	n/a	n/a	8,2	1
+73.0	n/a	1.388	04:46:41	1	89437	10	10	6	1	12	2	6	15	13	n/a	n/a	15,5	1
+84.0	n/a	1.647	04:46:52	1	94907	11	11	2	9	16	n/a	n/a	n/a	n/a	n/a	n/a	16,2	1
+89.0	n/a	1.44	04:46:57	1	105788	12	12	6	12	4	1	8	10	9	n/a	n/a	16,6	1

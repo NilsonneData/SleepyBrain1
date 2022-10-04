@@ -1,0 +1,10 @@
+filename	acq_time
+anat/sub-9025_ses-2_T1w.nii.gz	1874-05-11T19:50:04
+dwi/sub-9025_ses-2_dwi.nii.gz	1874-05-11T20:59:14
+fmap/sub-9025_ses-2_magnitude1.nii.gz	1874-05-11T20:50:37
+fmap/sub-9025_ses-2_magnitude2.nii.gz	1874-05-11T20:50:37
+fmap/sub-9025_ses-2_phase1.nii.gz	1874-05-11T20:50:37
+fmap/sub-9025_ses-2_phase2.nii.gz	1874-05-11T20:50:37
+func/sub-9025_ses-2_task-faces_bold.nii.gz	1874-05-11T20:07:00
+func/sub-9025_ses-2_task-hands_bold.nii.gz	1874-05-11T20:40:20
+func/sub-9025_ses-2_task-rest_bold.nii.gz	1874-05-11T19:56:02
